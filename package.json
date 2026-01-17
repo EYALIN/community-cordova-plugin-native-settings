@@ -1,22 +1,35 @@
-
 {
   "name": "community-cordova-plugin-native-settings",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A Cordova plugin to open native device settings screens",
   "types": "./types/index.d.ts",
   "cordova": {
     "id": "community-cordova-plugin-native-settings",
-    "platforms": ["android", "ios"]
+    "platforms": [
+      "android",
+      "ios"
+    ]
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eyalin/community-cordova-plugin-native-settings.git"
   },
-  "keywords": ["ecosystem:cordova","cordova-android","cordova-ios","settings","native-settings","preferences"],
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "settings",
+    "native-settings",
+    "preferences"
+  ],
   "author": "EYALIN",
   "license": "MIT",
-  "bugs": { "url": "https://github.com/eyalin/community-cordova-plugin-native-settings/issues" },
+  "bugs": {
+    "url": "https://github.com/eyalin/community-cordova-plugin-native-settings/issues"
+  },
   "homepage": "https://github.com/eyalin/community-cordova-plugin-native-settings#readme",
-  "funding": { "type": "github", "url": "https://github.com/sponsors/eyalin" }
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/eyalin"
+  }
 }
-

@@ -6,7 +6,7 @@ export interface INativeSettingsOptions {
   newTask?: boolean;
 }
 
-export class SettingsManager {
+export declare class SettingsManager {
   /**
    * Open device settings screen
    * @param options Settings options or setting string
@@ -23,10 +23,4 @@ export class SettingsManager {
 // For global access
 declare global {
   const SettingsPlugin: SettingsManager;
-}
-
-// For TypeScript/Angular imports
-declare module 'community-cordova-plugin-native-settings' {
-  export { SettingsManager, INativeSettingsOptions };
-  export default SettingsPlugin;
 }
