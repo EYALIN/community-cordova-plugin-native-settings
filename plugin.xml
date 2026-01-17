@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="community-cordova-plugin-native-settings"
+        version="1.0.0">
+    <name>Cordova Plugin Native Settings</name>
+    <description>A Cordova plugin to open native device settings screens</description>
+    <license>MIT</license>
+    <keywords>cordova,settings,native,preferences,options,android,ios</keywords>
+    <repo>https://github.com/eyalin/community-cordova-plugin-native-settings.git</repo>
+    <issue>https://github.com/eyalin/community-cordova-plugin-native-settings/issues</issue>
+
+    <engines>
+        <engine name="cordova" version=">=4.0.0" />
+    </engines>
+
+    <js-module src="www/settings.js" name="SettingsPlugin">
+        <clobbers target="SettingsPlugin" />
+    </js-module>
+
+    <!-- android -->
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="/*">
+            <feature name="NativeSettings">
+                <param name="android-package" value="com.ionicframework.plugins.nativesettings.NativeSettings" />
+            </feature>
+        </config-file>
+        <source-file src="src/android/NativeSettings.java" target-dir="src/com/ionicframework/plugins/nativesettings" />
+    </platform>
+
+    <!-- ios -->
+    <platform name="ios">
+        <config-file target="config.xml" parent="/*">
+            <feature name="NativeSettings">
+                <param name="ios-package" value="NativeSettings" />
+            </feature>
+        </config-file>
+        
+        <!-- Add App-Prefs to LSApplicationQueriesSchemes -->
+        <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
+            <array>
+                <string>App-Prefs</string>
+            </array>
+        </config-file>
+        <header-file src="src/ios/NativeSettings.h" />
+        <source-file src="src/ios/NativeSettings.m" />
+    </platform>
+</plugin>

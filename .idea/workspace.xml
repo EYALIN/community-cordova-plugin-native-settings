@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc3c1c8a-9461-48a6-88ee-4924fb76faf3" name="Changes" comment="initial plugin">
+      <change beforePath="$PROJECT_DIR$/../../Ionic/Flashlight/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ionic/Flashlight/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-apps" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-apps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-battery-status" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-battery-status" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-cpu" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-cpu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-cpu copy" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-cpu copy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-disk-space" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-disk-space" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-file-opener" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-file-opener" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-files-picker" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-files-picker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-ram" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-ram" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-screen-time" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-screen-time" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-security-check" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-security-check" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-sim" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-sim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-social-sharing" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-social-sharing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-wifi" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-wifi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community-cordova-plugin-wifi-wizard" beforeDir="false" afterPath="$PROJECT_DIR$/../community-cordova-plugin-wifi-wizard" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EYALIN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EYALIN/IonicShared.git&quot;,
+    &quot;accountId&quot;: &quot;554cb47e-af38-4ebf-8263-4816fa246779&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="35AuWmUKDbQ1dH3kR0Opa4H5nRp" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/Volumes/Development/Git/forked/community-cordova-plugin-native-settings",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.29346.242" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc3c1c8a-9461-48a6-88ee-4924fb76faf3" name="Changes" comment="" />
+      <created>1762565230782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762565230782</updated>
+      <workItem from="1762565231831" duration="6159000" />
+      <workItem from="1765604803935" duration="598000" />
+      <workItem from="1768627571095" duration="331000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial plugin">
+      <option name="closed" value="true" />
+      <created>1762617060353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762617060353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial plugin" />
+  </component>
+</project>
