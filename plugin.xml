@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0.4" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="community-cordova-plugin-native-settings"
-        version="1.0.0">
+        version="1.0.4">
     <name>Cordova Plugin Native Settings</name>
     <description>A Cordova plugin to open native device settings screens</description>
     <license>MIT</license>
@@ -37,7 +37,7 @@
         </config-file>
         
         <!-- Add App-Prefs to LSApplicationQueriesSchemes -->
-        <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
+        <config-file target="App/App-Info.plist" parent="LSApplicationQueriesSchemes">
             <array>
                 <string>App-Prefs</string>
             </array>

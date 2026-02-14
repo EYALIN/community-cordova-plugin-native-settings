@@ -1,6 +1,6 @@
 {
   "name": "community-cordova-plugin-native-settings",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Cordova plugin to open native device settings screens",
   "types": "./types/index.d.ts",
   "cordova": {
